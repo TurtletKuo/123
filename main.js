@@ -1,6 +1,6 @@
 (function (window, document) {  
 
-    const width = 880;
+    const width = 1000;
     const height = 420;
     const margin = { top: 40, left: 40, bottom: 40, right: 40 };
 
